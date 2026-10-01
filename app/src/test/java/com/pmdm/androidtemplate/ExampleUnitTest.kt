@@ -1,4 +1,4 @@
-package com.pmdm.proyectobase2425
+package com.pmdm.androidtemplate
 
 import org.junit.Test
 

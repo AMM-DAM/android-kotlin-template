@@ -1,4 +1,4 @@
-package com.pmdm.proyectobase2425.ui.theme
+package com.pmdm.androidtemplate.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

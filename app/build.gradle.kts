@@ -9,11 +9,11 @@ plugins {
 }
 
 android {
-    namespace = "com.pmdm.proyectobase2425"
+    namespace = "com.pmdm.androidtemplate"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.pmdm.proyectobase2425"
+        applicationId = "com.pmdm.androidtemplate"
         minSdk = 28
         targetSdk = 34
         versionCode = 1
